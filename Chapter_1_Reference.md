@@ -26,15 +26,44 @@
   - Establishes departmental stamping system for book distribution
   - Requires monthly reporting of colporteur authorizations to ministry
 
+### Popular Song Analysis/Collection
+
+- **Nerval, Gérard de.** "La Bohême galante." *L'Artiste* (July-December 1852).
+
+  - Serialized travelogue quoting and analyzing *chansons populaires* from Valois
+  - Contrasts vernacular songs with salon romance to argue for popular authenticity
+
+- **Rathery, J.B.** "Chansons populaires." *Le Moniteur Universel*, 19 March 1853, pp. 3313+.
+
+  - First in a series of seven articles analyzing popular songs in France
+  - Timed to support national collection initiative
+  - Available on Gallica
+
 ## Secondary Sources
 
 - **Leterrier, Sophie-Anne**. "Le timbre de la complainte de Fualdès : 'l'air de toutes les complaintes'". *Criminocorpus* 17 (2021). <https://doi.org/10.4000/criminocorpus.8861>
 
-- **Darriulat, Philippe**. *La muse du peuple : Chansons politiques et sociales en France, 1815-1871*. Rennes: Presses Universitaires de Rennes, 2010.
+- **Chartier, Roger, and Hans-Jürgen Lüsebrink, eds.** *Colportage et culture populaire. Imprimés de large circulation en Europe XVIe-XIXe siècles*. Paris: IMEC/MSH, 1996.
+
+- **Darmon, Jean-Jacques.** *Le Colportage de librairie en France sous le Second Empire, grands colporteurs et culture populaire*. Paris: Plon, 1972.
+
+- **Darriulat, Philippe.** *La Muse du peuple: Chansons politiques et sociales en France, 1815-1871*. Rennes: Presses universitaires de Rennes, 2011.
 
   - Chapter "Modes de diffusion" analyzes oral and written circulation of political songs
   - Documents how colporteurs, street singers, and goguette networks spread songs across France
   - Traces relationship between popular song distribution and state surveillance/censorship
+
+- **Gelbart, Matthew.** *The Invention of 'Folk Music' and 'Art Music': Emerging Categories from Ossian to Wagner*. New Perspectives in Music History and Criticism. Cambridge: Cambridge University Press, 2007.
+
+- **Haynes, Christine.** *Lost Illusions: The Politics of Publishing in Nineteenth-Century France*. Harvard Historical Studies 167. Cambridge, MA: Harvard University Press, 2010.
+
+- **Laharie, Patrick.** *Contrôle de la presse, de la librairie et du colportage sous le Second Empire*. Paris: Archives nationales, 1995.
+
+- **Moussa, Heba Mohamed Abdelradi.** "La culture du colportage dans la campagne française depuis la première moitié du XIXe siècle." *Journal of Qena Faculty of Arts* 31, no. 54 (2022): 57-82.
+
+- **Witkowski, Claude.** *Les Éditions populaires, 1848-1870*. Paris: GIPPE, 1997.
+
+- **Witkowski, Claude.** *Monographie des éditions populaires, Une censure de classe: la commission de colportage, 1852-1881*. S.l.: Claude Witkowski, 1986.
 
 ## Archival Sources
 

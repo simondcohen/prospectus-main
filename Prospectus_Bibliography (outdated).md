@@ -16,8 +16,6 @@ Laharie, Patrick. *Contrôle de la presse, de la librairie et du colportage sous
 
 Moussa, Heba Mohamed Abdelradi. "La culture du colportage dans la campagne française depuis la première moitié du XIXe siècle." *Journal of Qena Faculty of Arts* 31, no. 54 (2022): 57-82.
 
-Rancière, Jacques. "Good Times, or Pleasure at the Barrière." In *Staging the People: The Proletarian and His Double*, 175-200. London: Verso, 2011.
-
 Witkowski, Claude. *Les Éditions populaires, 1848-1870*. Paris: GIPPE, 1997.
 
 Witkowski, Claude. *Monographie des éditions populaires, Une censure de classe: la commission de colportage, 1852-1881*. S.l.: Claude Witkowski, 1986.
@@ -26,13 +24,13 @@ Witkowski, Claude. *Monographie des éditions populaires, Une censure de classe:
 
 Ellis, Katharine. "Systems Failure in Operatic Paris: The Acid Test of the Théâtre-Lyrique." In *Music, Theater and Cultural Transfer: Paris, 1830-1914*, edited by Mark Everist and Annegret Fauser, 49-71. Chicago: University of Chicago Press, 2009.
 
-Hopkinson, Cecil. *A Dictionary Of Parisian Music Publishers 1700-1950*. Da Capo Press Music Reprint Series. New York: Da Capo Press, 1979.
-
 Latournerie, Anne. "Droits d'auteur, droits du public: une approche historique." *L'Économie politique* 22 (April 2004): 21-33.
 
-Rebolledo-Dhuin, Viera. "Les libraires parisiens au XIXe siècle : Mobilités sociales et spatiales." *Ethnologie française* 47, no. 1 (2017): 59-74.
-
 Walsh, T. J. *Second Empire Opera: The Théâtre Lyrique, Paris 1851-1870*. London: John Calder; New York: Riverrun Press, 1981.
+
+Rebolledo-Dhuin, Viera. "Les libraires parisiens au XIXe siècle : Mobilités sociales et spatiales." *Ethnologie française* 47, no. 1 (2017): 59-74. ?
+
+Hopkinson, Cecil. *A Dictionary Of Parisian Music Publishers 1700-1950*. Da Capo Press Music Reprint Series. New York: Da Capo Press, 1979.
 
 ## Chapter 3
 
