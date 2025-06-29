@@ -12,13 +12,9 @@ Gelbart, Matthew. *The Invention of 'Folk Music' and 'Art Music': Emerging Categ
 
 Haynes, Christine. *Lost Illusions: The Politics of Publishing in Nineteenth-Century France*. Harvard Historical Studies 167. Cambridge, MA: Harvard University Press, 2010.
 
-Laclau, Ernesto. *On Populist Reason*. London: Verso, 2005.
-
 Laharie, Patrick. *Contrôle de la presse, de la librairie et du colportage sous le Second Empire*. Paris: Archives nationales, 1995.
 
 Moussa, Heba Mohamed Abdelradi. "La culture du colportage dans la campagne française depuis la première moitié du XIXe siècle." *Journal of Qena Faculty of Arts* 31, no. 54 (2022): 57-82.
-
-Price, Roger. *People and Politics in France, 1848–1870*. New Studies in European History. Cambridge: Cambridge University Press, 2004.
 
 Rancière, Jacques. "Good Times, or Pleasure at the Barrière." In *Staging the People: The Proletarian and His Double*, 175-200. London: Verso, 2011.
 

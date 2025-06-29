@@ -1,0 +1,18 @@
+# Laclau on Populist reason
+
+- Ch 1: Populism: Ambiguities and paradoxes
+    
+    "My attempt has not been to find the true referent of populism, but to do the opposite: to show that populism has no referential unity because it is ascribed not to a delimitable phenomenon but to a social logic whose effects cut across many phenomena. Populism is, quite simply, a way of constructing the political."
+    
+    - -could probably interestingly apply this to "popular" in music as well
+    
+    I would like, right from the beginning, to advance a hypothesis which will guide our theoretical exploration: that the impasse that Political Theory experiences in relation to populism is far from accidental, for it is rooted in the limitation of the ontological tools currendy available to political analysis; that 'populism', as the locus of a theoretical stmnbling block, reflects some of the limits inherent in the ways in which Political Theory has approached the question of how social agents 'totalize' the ensemble of their political experience.
+    
+    To we can say that progress in understanding populism requires, as a sine qua non, rescuing it from its marginal position within the discourse of the social sciences — the latter having confined it to the realm of the nonthinkable, to being the simple opposite of political forms dignified with the status of a full rationality. I should stress that this relegation has been possible only because, from the very beginning, a strong element of ethical condemnation has been present in the consideration of populistic movements. Populism has not only been demoted: it has also been denigrated. Its dismissal has been part of the discursive construction of a certain normality, of an ascetic political universe from which its dan­ gerous logics had to be excluded...It was in the course of this discussion that a set of distinctions and oppositions were establishe
+    
+    20 ON POPULIST REASON that were going to operate as a matrix out of which a whole perspective concerning 'aberrant' political phenomena — populism included — was organized. The consideration of this matrix will be my starting point. I shall begin with the analysis of a classical text which was at the epicentre of this intellectual history: Gustave Le Bon's The Crowd.
+    
+    - -this could be a very productive place to locate my study of the popular viz. tomlinson etc.
+- Ch. 4: THe ‘people and the discursive production of emptiness’
+    - To this I opposed two different possibilities: (1) that vagueness and indeterminacy are not shortcomings of a dis­ course about social reality, but, in some circumstances, inscribed in social reality as such; (2) that rhetoric is not epiphenomenal vis-a-vis a selfcontained conceptual structure, for no conceptual structure finds its internal cohesion without appealing to rhetorical devices. If this is so, the conclusion would be that populism is the royal road to understand­ ing something about the ontological constitution of the political as such. This is what I shall try to prove in this chapter. Before doing so, however, I must make explicit some more general ontological
+    - Discourse. Discourse is the primary terrain of the constitution of objec­ tivity as such. By discourse, as I have attempted to make clear several times, I do not mean something that is essentially restricted to the areas of speech and writing, but any complex of elements in which relations play the constitutive role. This means that elements do not pre-exist the relational complex but are constituted through it.
