@@ -61,6 +61,10 @@
 
 - **Moussa, Heba Mohamed Abdelradi.** "La culture du colportage dans la campagne française depuis la première moitié du XIXe siècle." *Journal of Qena Faculty of Arts* 31, no. 54 (2022): 57-82.
 
+- **Leterrier, Sophie-Anne.** "Musique populaire et musique savante au XIXe siècle. Du 'peuple' au 'public'." *Revue d'histoire du XIXe siècle* 19 (1999): 89-103.
+
+- **Berthou-Bécam, Laurence, and Didier Bécam.** *L'Enquête Fortoul (1852-1876): Chansons populaires de Haute et Basse-Bretagne*. 2 vols. Paris: CTHS/Dastum, 2011.
+
 - **Witkowski, Claude.** *Les Éditions populaires, 1848-1870*. Paris: GIPPE, 1997.
 
 - **Witkowski, Claude.** *Monographie des éditions populaires, Une censure de classe: la commission de colportage, 1852-1881*. S.l.: Claude Witkowski, 1986.
