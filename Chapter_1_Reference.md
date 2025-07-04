@@ -65,6 +65,8 @@
 
 - **Berthou-Bécam, Laurence, and Didier Bécam.** *L'Enquête Fortoul (1852-1876): Chansons populaires de Haute et Basse-Bretagne*. 2 vols. Paris: CTHS/Dastum, 2011.
 
+- **Mayaud, Isabelle.** "Le politique, le savant et le populaire." 2019.
+
 - **Witkowski, Claude.** *Les Éditions populaires, 1848-1870*. Paris: GIPPE, 1997.
 
 - **Witkowski, Claude.** *Monographie des éditions populaires, Une censure de classe: la commission de colportage, 1852-1881*. S.l.: Claude Witkowski, 1986.

@@ -138,6 +138,18 @@
 
 - **Walsh, T. J.** *Second Empire Opera: The Théâtre Lyrique, Paris 1851-1870*. London: John Calder; New York: Riverrun Press, 1981.
 
+- **Szendy, Peter.** *Listen: A History of Our Ears*. Translated by Charlotte Mandell. New York: Fordham University Press, 2008.
+
+- **Rebolledo-Dhuin, Viera.** "Les libraires parisiens au XIXe siècle." *Ethnologie Française* 47, no. 1 (2017): 59-74.
+
+- **Bergquist, Stephen A.** "A Souvenir of the Second Empire." *Music in Art* 36, no. 1/2 (Spring–Fall 2011): 301-310.
+
+- **Mondelli, Peter.** "From Voice to Text: Parisian Opera and Material Culture, 1790-1870." PhD diss., University of Pennsylvania, 2011.
+
+- **Pacheco, Alberto José Vieira.** *Guia musical dos periódicos da Fundação Biblioteca Nacional (1842-1922)*. Rio de Janeiro: Fundação Biblioteca Nacional, 2021.
+
+- **Hopkinson, Cecil.** *A Dictionary of Parisian Music Publishers 1700-1950*. 1954. Reprint, New York: Da Capo Press, 1979.
+
 ## Archival Sources
 
 ### Ikelmer Bankruptcy
