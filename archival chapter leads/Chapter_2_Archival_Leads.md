@@ -1,0 +1,95 @@
+# Chapter 2 (1858) - Archival Leads
+
+## Archives nationales
+
+### Sous-série AJ/13, cartons AJ/13/459, 1134-1159
+
+**What it is:** Administrative and financial papers for "théâtres annexes" preserved by the Opéra library and later transferred to the AN; includes Théâtre Lyrique balance-sheets, contracts, and liquidation dossiers for the Carvalho years.
+
+**How to get it:** Search the FranceArchives finding-aid **"Archives du théâtre national de l'Opéra (AJ/13/1-1466)"**, then filter on the cote numbers above.
+
+**Status: Verified**
+
+### Sous-série F/18, dossiers F/18/669-995 (esp. F/18/739)
+
+**What it is:** Censorship copies of libretti and readers' reports for every Paris "grand" theatre; F/18/739 covers *Opéra National / Théâtre Lyrique* 1850-70, so you get the annotated libretto of **Faust** plus notes on staging cuts the censors demanded.
+
+**How to get it:** Finding-aid "Intérieur ; Théâtres. Censure des répertoires des grands théâtres parisiens (1835-1906)" on FranceArchives; navigate to the Théâtre Lyrique subtree.
+
+**Status: Verified**
+
+### Sous-série F/21, article "Paris. Spectacles divers : Théâtre Lyrique dramatique (1850-70)"
+
+**What it is:** Technical files lodged with the Ministry of Public Works: building maintenance estimates, stage-machinery upgrades, and insurance valuations for the boulevard-du-Temple salle in 1858-60—useful for reconstructing the 150 000-franc production budget mocked in the press.
+
+**How to get it:** Open the "F/21/1-2588, 2873/A-2899" inventory on FranceArchives and search "Théâtre Lyrique dramatique".
+
+**Status: Verified**
+
+### Série F/7 (Police générale), cartons F/7/3492 & F/7/4334
+
+**What it is:** Police and fire-safety inspections, evening receipt tallies, and incident reports for the Théâtre Lyrique; often attach box-office statements that corroborate AJ/13 figures.
+
+**How to get it:** See the CSV index referenced under AJ/13 in the FranceArchives portal; filter on "F/7" and "Théâtre Lyrique".
+
+**Status: Verified**
+
+---
+
+## Bibliothèque nationale de France
+
+### Bibliothèque-musée de l'Opéra (site Richelieu) – Maquettes & décors for *Faust* 1859
+
+**What it is:** Full-colour set models and stock-scenery elevations by Charles Cambon & co.; digitised plates give visual evidence of the staging scale reviewers called "ruinous".
+
+**How to get it:** Gallica images under arks **btv1b84388375** (Act I, scene II) and **btv1b8438836r** (Act III, scene VIII); the physical items sit in the Opéra iconography series.
+
+**Status: Verified**
+
+### Département de la Musique – Autograph score, Gounod *Faust* (MS vm²-1192)
+
+**What it is:** Composer's working manuscript deposited for legal deposit in 1859. Pencil annotations reveal late cuts made for the Théâtre Lyrique orchestra and chorus.
+
+**How to get it:** Gallica fac-simile under ark **btv1b550016617**; for folio consultation request cote MS 1192 in the 'Richelieu – Musique' reading room.
+
+**Status: Verified**
+
+### Bibliothèque-musée de l'Opéra – *Mémorial du Théâtre-Lyrique* (Albert de Lasalle, 1873)
+
+**What it is:** Semi-official catalogue raisonné of all 182 operas staged 1851-72, compiled from internal account books. Entries for *Faust* list rehearsal costs and cast salaries.
+
+**How to get it:** Digitised in Gallica; search the title and year, or the ark in the text capture.
+
+**Status: Verified**
+
+### BnF-Gallica – *Le Figaro* digital run, year 1860
+
+**What it is:** Complete set of 105 issues, with Villemessant's March–April feuilletons lampooning Carvalho's "charmante spéculation". Provides the press counterpoint to the AJ/13 ledgers.
+
+**How to get it:** Open "Le Figaro (Paris, 1854) → 1860" in Gallica's year selector.
+
+**Status: Verified**
+
+### BnF Data – Authority file "Léon Carvalho (1825-1897)"
+
+**What it is:** Aggregates c. 50 archival resources (letters, contracts, accounts) across multiple BnF departments; a quick way to surface scattered Carvalho papers that touch on Théâtre Lyrique policy decisions.
+
+**How to get it:** Search 'Léon Carvalho' on [data.bnf.fr](http://data.bnf.fr) and follow the "Manuscrits et archives" tab.
+
+**Status: Verified**
+
+---
+
+## Other Repositories
+
+### Bibliothèque historique de la Ville de Paris (BHVP) – Dossier iconographique "Théâtre-Historique / Théâtre-Lyrique" (cote ICO TH-...)
+
+**What it is:** Playbills, caricatures, and building photographs for the boulevard-du-Temple house (1847-63); includes a rare photograph of the façade in 1860 used by *Le Figaro*.
+
+**How to get it:** BHVP online catalogue; select the iconography filter and search the ark shown in the record.
+
+**Status: Verified**
+
+---
+
+*Last updated: 2025-06-12*
